@@ -10,7 +10,11 @@ Most times I have to submit to conferences I have to pull this list together all
 
 ### 2019
 
-* 2019-05-03 - BSides Knoxville 2019 - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)]
+* 2019-06-20 - The Perl Conference 2019 (YAPC) - Lightning Talk: Engage Docking Clams [[video](https://www.youtube.com/watch?v=O0XJ1n6wnuI)]
+* 2019-06-17 - The Perl Conference 2019 (YAPC) - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)]
+* 2019-05-03 - BSides Knoxville 2019 - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)] [[video](https://www.youtube.com/watch?v=SO3RfVnbXJg)] 
+* 2019-06-08 - PGH TechFest Storytellers 2019 - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)]
+* 2019-05-03 - BSides Knoxville 2019 - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)] [[video](https://www.youtube.com/watch?v=c9rM2PPV52c)]
 * 2019-04-12 - Mob Programming 2019 - Mob Programming with Legacy Code
 * 2019-04-11 - Mob Programming 2019 - Effective Remote Mobbing 
 * 2019-03-22 - Innovate VA 2019 - Important Metrics for Measuring Code Health [[video](https://www.youtube.com/watch?v=k2F-DHSvFmU)] [[slides](https://www.slideshare.net/mscottford/important-metrics-for-measuring-code-health%E2%80%AC)]
