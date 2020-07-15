@@ -8,8 +8,17 @@ Most times I have to submit to conferences I have to pull this list together all
 
 ## The List
 
+### 2020
+
+* 2020-06-26 - Perl: Conference in the Cloud - A Deep Dive Into Measuring Dependency Freshness With Lib Year [[slides](https://www.slideshare.net/mscottford/a-deep-dive-into-measuring-dependency-freshness-with-lib-year)][[video](https://youtu.be/p6qgJ6oUDaE)]
+* 2020-06-18 - Python Web Conference - A Deep Dive Into Measuring Dependency Freshness With Lib Year [[slides](https://www.slideshare.net/mscottford/a-deep-dive-into-measuring-dependency-freshness-with-lib-year)][[video](https://www.youtube.com/watch?v=JR9aRD1pmkQ)]
+* 2020-05-19 - Futureproof IT Virtual Summit - Maintaining and Improving Existing Code for the New Environment of Remote Operations
+* 2020-05-14 - MenderCon 2020 - Makers and Menders: Finding Talent for Legacy Code Projects, Expanded
+* 2020-05-04 - RVATech Fintech Conference - Makers and Menders: Finding Talent for Legacy Code Projects
+
 ### 2019
 
+* 2019-10-08 - The Maintainers Conference - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)]
 * 2019-06-20 - The Perl Conference 2019 (YAPC) - Lightning Talk: Engage Docking Clamps [[video](https://www.youtube.com/watch?v=O0XJ1n6wnuI)]
 * 2019-06-17 - The Perl Conference 2019 (YAPC) - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)]
 * 2019-05-03 - BSides Knoxville 2019 - Building a Bridge to a Legacy Application - How Hard Can That Be? [[slides](https://www.slideshare.net/mscottford/building-a-bridge-to-a-legacy-application-how-hard-can-that-be)] [[video](https://www.youtube.com/watch?v=SO3RfVnbXJg)] 
