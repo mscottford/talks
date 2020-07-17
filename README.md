@@ -13,7 +13,7 @@ Most times I have to submit to conferences I have to pull this list together all
 * 2020-06-26 - Perl: Conference in the Cloud - A Deep Dive Into Measuring Dependency Freshness With Lib Year [[slides](https://www.slideshare.net/mscottford/a-deep-dive-into-measuring-dependency-freshness-with-lib-year)][[video](https://youtu.be/p6qgJ6oUDaE)]
 * 2020-06-18 - Python Web Conference - A Deep Dive Into Measuring Dependency Freshness With Lib Year [[slides](https://www.slideshare.net/mscottford/a-deep-dive-into-measuring-dependency-freshness-with-lib-year)][[video](https://www.youtube.com/watch?v=JR9aRD1pmkQ)]
 * 2020-05-19 - Futureproof IT Virtual Summit - Maintaining and Improving Existing Code for the New Environment of Remote Operations [[slides](https://www.slideshare.net/mscottford/makers-and-menders-finding-talent-for-legacy-code-projects)]
-* 2020-05-14 - MenderCon 2020 - Makers and Menders: Finding Talent for Legacy Code Projects, Expanded
+* 2020-05-14 - MenderCon 2020 - Makers and Menders: Finding Talent for Legacy Code Projects, Expanded [[slides](https://www.slideshare.net/mscottford/mendercon-2020-keynote-presentation)]
 * 2020-05-04 - RVATech Fintech Conference - Makers and Menders: Finding Talent for Legacy Code Projects [[slides](https://www.slideshare.net/mscottford/makers-and-menders-finding-talent-for-legacy-code-projects)]
 
 ### 2019
