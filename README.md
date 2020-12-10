@@ -10,6 +10,11 @@ Most times I have to submit to conferences I have to pull this list together all
 
 ### 2020
 
+* 2020-11-19 - Geekle Python Web Global Summit '20 - Building a Bridge to a Legacy Application - How Hard Can That Be?
+* 2020-11-19 - Geekle Python Web Global Summit '20 - A Deep Dive Into Measuring Dependency Freshness With Lib Year 
+* 2020-09-09 - The Legacy of SoCraTes 3rd Edition - Makers and Menders: Finding Talent for Legacy Code Projects
+* 2020-09-02 - LAST Conference  - Software Remodeling: Resisting the Rewrite Temptation
+* 2020-08-26 - NOVA Cloud and Software Engineering Group meetup - Software Remodeling: Resisting the Rewrite Temptation
 * 2020-06-26 - Perl: Conference in the Cloud - A Deep Dive Into Measuring Dependency Freshness With Lib Year [[slides](https://www.slideshare.net/mscottford/a-deep-dive-into-measuring-dependency-freshness-with-lib-year)][[video](https://youtu.be/p6qgJ6oUDaE)]
 * 2020-06-18 - Python Web Conference - A Deep Dive Into Measuring Dependency Freshness With Lib Year [[slides](https://www.slideshare.net/mscottford/a-deep-dive-into-measuring-dependency-freshness-with-lib-year)][[video](https://www.youtube.com/watch?v=JR9aRD1pmkQ)]
 * 2020-05-19 - Futureproof IT Virtual Summit - Maintaining and Improving Existing Code for the New Environment of Remote Operations [[slides](https://www.slideshare.net/mscottford/makers-and-menders-finding-talent-for-legacy-code-projects)]
